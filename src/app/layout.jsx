@@ -3,9 +3,9 @@ import "../../public/Poppins.css";
 import ToastContainer from "@/utils/ToastContainer";
 
 export const metadata = {
-  title: "Mohammad Shoaib - Graphic designer Designer",
+  title: "Kashaf Rana - Web Developer",
   description:
-    "Explore expert UX/UI design and graphic design services that enhance user experiences and create stunning visuals. Specializing in responsive design, interaction design, and brand identity, we offer wireframing, prototyping, and usability testing to bring your vision to life. Discover the power of design thinking, typography, and color theory with our creative direction today!",
+    "Showcasing expert MERN Stack development, responsive web design, UI/UX, graphic design, and cinematic video editing services. Transform your ideas into high-performing, visually stunning digital experiences.",
 };
 
 export default function RootLayout({ children }) {
